@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.Extensions.Configuration;
 
-namespace SwipeTime_Core
+namespace SwipeTime.Core
 {
     public class Program
     {

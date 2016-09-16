@@ -67,6 +67,6 @@
   },
 
   "tooling": {
-    "defaultNamespace": "SwipeTime_Core"
+    "defaultNamespace": "SwipeTime.Core"
   }
 }
